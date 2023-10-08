@@ -1,0 +1,5 @@
+Team 3CK: Alex Zhao, Josephina Kim, Benson Yan, Patrick Yang
+
+Our project is focused on completing the Environics Analytics challenge. For the challenge, we are choosing to focus
+on presenting the data in a simple and readable format while retaining the rich information which the NewToCanada 
+data contains.
